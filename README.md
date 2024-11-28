@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TeoU-ux
 - 👀 I’m interested in aviation and programing
 - 🌱 I’m currently learning to code in python
-- 📫 How to reach me Mail xdigi@gmail.com
+- 📫 How to reach me Mail xdigi320@gmail.com
 - 😄 Pronouns: idk
 - ⚡ Fun fact: I like flying 
 
